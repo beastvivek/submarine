@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0 auto;
+  font-family: Impact, Haettenschweiler, sans-serif;
+  font-size: 20px;
+}
+.sky{
+  height: 50%;
+}
+.sky-layer{
+  height: 20%;
+}
+.one{
+  background-color: hsl(210, 100%, 84%);
+}
+.two{
+  background-color: hsl(210, 100%, 87%);
+}
+.three{
+  background-color: hsl(210, 100%, 90%);
+}
+.four{
+  background-color: hsl(210, 100%, 93%);
+}
+.five{
+  background-color: hsl(210, 100%, 96%);
+}
+.ocean{
+  height: 50%;
+  background-color: hsl(210, 100%, 56%);
+}
+h1{
+  font-size: 10em;
+  color: hsla(210, 80%, 15%, 0.6)  ;
+  text-align: center;
+  text-shadow: 0.005em 0.005em hsla(210, 100%, 75%, 0.6);
+}
+.periscope{
+  position: relative;
+  bottom: 0.4em;
+}
